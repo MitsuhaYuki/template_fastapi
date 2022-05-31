@@ -73,12 +73,14 @@ open `/app/core/config.py`, change `JWT_SECRET` to your own secret.
 ### Documentation & Contribution
 
 - FastAPI - [Visit WebSite](https://fastapi.tiangolo.com/)
-- uvicorn - [Visit WebSite](https://www.uvicorn.org/)
+- Uvicorn - [Visit WebSite](https://www.uvicorn.org/)
+- Starlette - [Visit WebSite](https://www.starlette.io/)
+- pydantic - [Visit WebSite](https://pydantic-docs.helpmanual.io/)
 - SQLAlchemy - [Visit WebSite](https://www.sqlalchemy.org/)
 - PyMySQL - [Visit WebSite](https://pymysql.readthedocs.io/en/latest/index.html)
-- MySQL-Connector - [Visit WebSite](https://dev.mysql.com/doc/relnotes/connector-python/en/)
+- MySQL Connector - [Visit WebSite](https://dev.mysql.com/doc/relnotes/connector-python/en/)
 - python-multipart - [Visit WebSite](https://andrew-d.github.io/python-multipart/index.html)
 - python-jose - [Visit WebSite](https://github.com/mpdavis/python-jose)
-- cryptography - [Visit WebSite](https://cryptography.io/en/latest/)
-- passlib - [Visit WebSite](https://passlib.readthedocs.io/en/stable/)
+- Cryptography - [Visit WebSite](https://cryptography.io/en/latest/)
+- PassLib - [Visit WebSite](https://passlib.readthedocs.io/en/stable/)
 - bcrypt - [Visit WebSite](https://github.com/pyca/bcrypt/)
